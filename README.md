@@ -3,7 +3,6 @@
 
 - 🌱 Estou aprendendo **Redes, arquitetura de computadores e limpeza de dados**
 
-- 📫 Como entrar em contato comigo **samuelcarv04@gmail.com**
 
 <p align="left">
 </p>
