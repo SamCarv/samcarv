@@ -2,7 +2,7 @@
 <h3 align="center">Sou um desenvolvedor apaixonado por tecnologias e pelo mundo de machine learning e inteligência artificial.</h3>
 
 - 🌱 Atualmente estou aprendendo **Redes, arquitetura de computadores e limpeza de dados**
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
