@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Samuel</h1>
 <h3 align="center">Sou um desenvolvedor apaixonado por tecnologias e pelo mundo de machine learning e inteligência artificial.</h3>
 
-- 🌱 Estou aprendendo **Redes, arquitetura de computadores e limpeza de dados**
+- 🌱 Atualmente estou aprendendo **Redes, arquitetura de computadores e limpeza de dados**
 
 - 📫 Como entrar em contato comigo **samuelcarv04@gmail.com**
 
